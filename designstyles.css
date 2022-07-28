@@ -1,0 +1,99 @@
+.red-box {
+    border: 1px solid darkred;
+    width: 450px;
+    height: 90px;
+    background-color: darkred;
+    text-align: center;
+    color: white; 
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.blue-box {
+    border: 1px solid #2d5dcc;
+    width: 450px;
+    height: 90px;
+    background-color: #2d5dcc;
+    margin-right: 10px;
+    text-align: center;
+    color: white; 
+    font-weight: bold;
+}
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.green-box {
+    border: 1px solid #4fe0b0;
+    width: 450px;
+    height: 90px;
+    background-color: #4fe0b0;
+    text-align: center;
+    color: black;   
+    display: block;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.pink-box {
+    border: 1px solid #FFC0CB;
+    background-color: #FFC0CB;
+    width: 450px;
+    height: 90px;
+    text-align: center;
+    color: black; 
+    font-weight: bold;
+}
+
+
+div {
+    display: inline-block;
+}
+
+.text-styles {
+    margin-top: 20px;
+}
+
+.merriweather {
+    font-family: Merriweather;
+}
+
+.cormorant-sc {
+    font-family: Cormorant SC;
+    margin-left: 100px;
+}
+
+.roboto-mono {
+    font-family: Roboto Mono;
+    display: block;
+    margin-top: 50px;
+}
+
+.font-label {
+    display: block; 
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style:italic;
+}
+
+span {
+    display: block;
+    text-align: left;
+    margin-top: 15px;
+}
+
+.text-styles {
+    display: block;
+}
+
+.colors, .fonts, .texts {
+    border: black solid 1px;
+    padding: 10px;
+    margin: 10px auto;
+}
